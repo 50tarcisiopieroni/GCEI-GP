@@ -86,4 +86,10 @@ npm start
 
 Este é um projeto de desenvolvimento contínuo e aberto a contribuições. Se você tem interesse em ajudar, seja com código, documentação ou sugestões, por favor, leia nosso **[🚀Guia de Contribuição](CONTRIBUTING.md)** para começar.
 
+## 📜 Licença
+Este projeto está licenciado sob a [MIT License](LICENSE.MD).
+
+## 📬 Contato
+Para dúvidas ou sugestões, abra uma *issue* ou envie mensagem pelo nosso canal de discussões.
+
 > Agradecemos por qualquer feedback ou sugestão\! 💡
