@@ -1,0 +1,6 @@
+# Diretorios ignorados
+.vscode/*
+node_modules
+frontend/node-modules
+backend/.env
+frontend/.env
